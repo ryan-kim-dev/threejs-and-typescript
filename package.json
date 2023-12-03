@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/three": "^0.159.0",
     "three": "^0.159.0"
   }
 }
