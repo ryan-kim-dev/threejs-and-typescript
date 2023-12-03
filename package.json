@@ -1,0 +1,14 @@
+{
+  "name": "threejs-and-typescript",
+  "version": "1.0.0",
+  "description": "유데미의 [Three.js and TypeScript](https://www.udemy.com/course/threejs-tutorials/) 강의를 듣고 학습내용을 정리하기 위한 레포지토리입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "three": "^0.159.0"
+  }
+}
